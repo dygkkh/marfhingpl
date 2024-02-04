@@ -3,14 +3,13 @@
 
 marfhing programming language 0.1 beta edition
 
-marfhing is a mini proyect of a programming language similar to assembly.
-this language is interpreted, but i´m working in the compiled version
 
+marfhing is a mini proyect of a programming language similar to assembly, easiest and with less freatures
+because language is in 0.1 beta.
+this language is interpreted, but i´m working in the compiled version. 
 this language is a assembler but easiest and less freatures
-
-the language is in 0.1 beta, I will update the language
-
+because language is in 0.1 beta, I will update the language
 to do a print you need to do this:
-
 ![imprint](https://github.com/dygkkh/marfhingpl/assets/158525086/d10d206a-553a-4d45-9bc7-073ac863a304)
 
+thanks to @basvdl97 to help me so much in the proyect with his videos in youtube
