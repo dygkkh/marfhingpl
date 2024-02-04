@@ -1,2 +1,16 @@
-IMPRINT "hola, mundo"
+intinput
+intinput
+sub
+goto-equ.0 l1
+goto-grth.0 l2
+imprint "minor than 0"
+endtok;
+
+
+l1:
+imprint "equal than 0"
+endtok;
+
+l2:
+imprint "bigger than 0"
 endtok;
