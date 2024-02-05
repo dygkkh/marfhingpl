@@ -15,3 +15,5 @@ to do a print you need to do this:
 ![imprint](https://github.com/dygkkh/marfhingpl/assets/158525086/d10d206a-553a-4d45-9bc7-073ac863a304)
 
 thanks to @basvdl97 to help me so much in the proyect with his videos in youtube
+
+report errors to solve in issues
