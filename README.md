@@ -14,6 +14,9 @@ to do a print you need to do this:
 
 ![imprint](https://github.com/dygkkh/marfhingpl/assets/158525086/d10d206a-553a-4d45-9bc7-073ac863a304)
 
+with a function named "imprint" you print in screen a text
+with "endtok;", you finish the tokenizer
+
 thanks to @basvdl97 to help me so much in the proyect with his videos in youtube
 
 report errors to solve in issues
