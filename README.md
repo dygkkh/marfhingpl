@@ -22,13 +22,19 @@ you can put numbers in a global list and do operations with him with the functio
 
 for example:
 
-#input:
+input:
+
 
 put 1
+
 put 1
+
 endtok;
 
+
 output:
+
+
 &: program_started
 
 &: end_program
@@ -37,12 +43,18 @@ and you can sum all values of the global list using "sum":
 example:
 #input:
 
+
 put 1
+
 put 1
+
 sum
+
 endtok;
 
+
 output:
+
 &: program_started
 
 &: end_program
@@ -52,11 +64,17 @@ the "sum" function sum all the values of the global list, but we didn´t show th
 example:
 #input:
 
+
 put 1
+
 put 1
+
 sum
+
 val.show;
+
 endtok;
+
 
 output:
 &: program_started
