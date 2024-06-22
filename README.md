@@ -1,5 +1,6 @@
 # marfhingpl interpreted edition
-![marfhing modernized logo](https://github.com/dygkkh/marfhingpl/assets/158525086/8eb017ec-8025-4921-9d44-66b846655324)
+
+![mammas evo - copian5](https://github.com/dygkkh/marfhingpl/assets/158525086/0b1f05f8-8871-4c87-98b7-7527f72ecbd4)
 
 marfhing programming language 0.1 beta edition
 
@@ -17,6 +18,56 @@ to do a print you need to do this:
 with a function named "imprint" you print in screen a text
 with "endtok;", you finish the tokenizer
 
-thanks to @basvdl97 to help me so much in the proyect with his videos in youtube
+you can put numbers in a global list and do operations with him with the function "put"
+for example:
+#input:
+----
+put 1
+put 1
+endtok;
+----
+output:
+----
+&: program_started
+
+&: end_program
+----
+
+and you can sum all values of the global list using "sum":
+example:
+#input:
+----
+put 1
+put 1
+sum
+endtok;
+----
+output:
+----
+&: program_started
+
+&: end_program
+----
+
+the "sum" function sum all the values of the global list, but we didn´t show the value. to show the value, you need to use the function "val.show;"
+example:
+#input:
+----
+put 1
+put 1
+sum
+val.show;
+endtok;
+----
+output:
+----
+&: program_started
+
+1
+
+&: end_program
+----
+
+thanks to @basvdl97 to help me so much in the proyect with his videos on youtube
 
 report errors to solve in issues
