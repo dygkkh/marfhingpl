@@ -1,5 +1,0 @@
-put 2
-put -1
-sum
-val.show;
-endtok;
