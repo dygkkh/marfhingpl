@@ -19,54 +19,52 @@ with a function named "imprint" you print in screen a text
 with "endtok;", you finish the tokenizer
 
 you can put numbers in a global list and do operations with him with the function "put"
+
 for example:
+
 #input:
-----
+
 put 1
 put 1
 endtok;
-----
+
 output:
-----
 &: program_started
 
 &: end_program
-----
 
 and you can sum all values of the global list using "sum":
 example:
 #input:
-----
+
 put 1
 put 1
 sum
 endtok;
-----
+
 output:
-----
 &: program_started
 
 &: end_program
-----
+
 
 the "sum" function sum all the values of the global list, but we didn´t show the value. to show the value, you need to use the function "val.show;"
 example:
 #input:
-----
+
 put 1
 put 1
 sum
 val.show;
 endtok;
-----
+
 output:
-----
 &: program_started
 
 1
 
 &: end_program
-----
+
 
 thanks to @basvdl97 to help me so much in the proyect with his videos on youtube
 
