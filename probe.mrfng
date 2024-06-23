@@ -1,8 +1,7 @@
-intinput
-intinput
-sub
-goto-equ.0 l1
-goto-grth.0 l2
+addtok_intinput;
+addtok_intinput;
+if_addtok_equ.0 l1
+if_addtok_grth.0 l2
 imprint "minor than 0"
 endtok;
 
