@@ -2,7 +2,7 @@
 
 ![mammas evo - copian5](https://github.com/dygkkh/marfhingpl/assets/158525086/0b1f05f8-8871-4c87-98b7-7527f72ecbd4)
 
-marfhing programming language 0.1 beta edition
+marfhing programming language last beta edition
 
 
 marfhing is a mini proyect of a programming language similar to assembly, easiest and with less freatures
@@ -10,6 +10,18 @@ because language is in 0.1 beta.
 this language is interpreted, but i´m working in the compiled version. 
 this language is a assembler but easiest and less freatures
 because language is in 0.1 beta, I will update the language
+
+
+how to download/install
+-
+
+first you need to download from this repository one of this versions. the file is a *.zip. 
+second you need to extract the files of the *.zip.
+the last step of the instalation is that you need to move that files to C:\Windows\System32 (I know that you distrust me)
+
+i´m working to only need to add the direction of that programs to path.
+
+
 to do a print you need to do this:
 
 
@@ -26,14 +38,11 @@ input:
 
 
 put 1
-
 put 1
-
 endtok;
 
 
 output:
-
 
 &: program_started
 
@@ -45,11 +54,8 @@ example:
 
 
 put 1
-
 put 1
-
 sum
-
 endtok;
 
 
@@ -66,15 +72,10 @@ example:
 
 
 put 1
-
 put 1
-
 sum
-
 val.show;
-
 endtok;
-
 
 output:
 &: program_started
@@ -82,6 +83,8 @@ output:
 1
 
 &: end_program
+
+if you want to do with a input in the shell, yo need to use the function "addtok_intinput;" in the place of the "put" function.
 
 
 thanks to @basvdl97 to help me so much in the proyect with his videos on youtube
