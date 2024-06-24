@@ -1,3 +1,4 @@
+import sys
 class Errors:
     def __init__(self, num, num2):
         self.se = ("", "you forgot input", "incorrect Token", "incorrect function", "you forgot a token")
